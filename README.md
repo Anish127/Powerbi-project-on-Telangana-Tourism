@@ -1,6 +1,6 @@
 # **Telangana_dashboard**
 
-**Introduction**: Datasets provides the information about Domestic and Foreign visitors of districts from Telangana state between 2016 and 2019.
+**Introduction**: Datasets provides the information about Domestic and Foreign visitors from the districts of Telangana state between 2016 and 2019.
 
 **Objective**: Providing insights to the Telangana Government to boost tourism.
 
@@ -35,7 +35,7 @@ After all the analysis, the data is reliable enough to build the dashboard.
  2. Promoting local culture and heritage
  3. Improving infrastructure
  4. Conducting cultural events and corporate seminars
-  5. Increasing marketing efforts
+ 5. Increasing marketing efforts
 
 
 

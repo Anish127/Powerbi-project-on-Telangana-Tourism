@@ -15,7 +15,8 @@
 
 **Data Cleaning**: In this step, I removed null values, removed duplicates.
 
-![Screenshot (88)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/f5476ff7-ff10-4a4d-9a71-b04ff618fce4)
+![Screenshot (89)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/8ef5226f-e69b-4048-be24-12ada5a91817)
+
 
 After all the analysis, the data is reliable enough to build the dashboard
 

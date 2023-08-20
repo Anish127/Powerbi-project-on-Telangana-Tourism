@@ -28,7 +28,7 @@ After all the analysis, the data is reliable enough to build the dashboard
              2. Number of Foreign visitors is expected to increase by 136%  in 2026
  
  
-  **RECOMMENDATIONS FOR TELANGANA GOVT. TO BOOST THE TOURISM**
+  **Recommendations for Telangana govt. To boost the tourism**
  
   1. Developing new tourist attractions
   2. Promoting local culture and heritage

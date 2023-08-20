@@ -1,12 +1,11 @@
 # **Telangana_dashboard**
 
+**Introduction**: Datasets provides the information about domestic and Foreign visitors of Telangana districts  from 2016-2019 
+
 **Objective**: Providing insights to the Telangana Government to boost tourism.
 
-**Introduction**: 
- Telangana is the 11th largest state of India and was formed on 2nd June, 2014. Telangana is the meeting place for diverse languages and cultures. Hyderabad being the capital, famous for rich cuisines,  monuments and a thriving destination for new-age business sectors. 
-
-
 **Extract Transform Load(ETL)**: Imported necessary CSV files
+
 **Data Modeling**: There are in total of 3 tables, and it should be made sure that the tables are connected correctly.
 
 ![Screenshot (91)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/78e8f249-24c8-493d-929a-2c0b42e9510b)

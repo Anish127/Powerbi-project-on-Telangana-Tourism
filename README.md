@@ -6,7 +6,7 @@
 
 **Extract Transform Load (ETL)**: Imported necessary CSV files.
 
-**Data Modeling**: There are 3 tables, and it should be made sure that the tables are connected correctly.
+**Data Modeling**: There are 3 tables, and made sure that the tables are connected correctly.
 
 ![Screenshot (91)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/78e8f249-24c8-493d-929a-2c0b42e9510b)
 

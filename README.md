@@ -1,10 +1,10 @@
 # **Telangana_dashboard**
 
-**Introduction**: Datasets provides the information about domestic and Foreign visitors of Telangana districts  from 2016-2019 
+**Introduction**: Datasets provides the information about domestic and Foreign visitors of Telangana districts  from 2016-2019. 
 
 **Objective**: Providing insights to the Telangana Government to boost tourism.
 
-**Extract Transform Load(ETL)**: Imported necessary CSV files
+**Extract Transform Load(ETL)**: Imported necessary CSV files.
 
 **Data Modeling**: There are in total of 3 tables, and it should be made sure that the tables are connected correctly.
 
@@ -17,7 +17,7 @@
 ![Screenshot (89)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/8ef5226f-e69b-4048-be24-12ada5a91817)
 
 
-After all the analysis, the data is reliable enough to build the dashboard
+After all the analysis, the data is reliable enough to build the dashboard.
 
 
 **Dashboard**

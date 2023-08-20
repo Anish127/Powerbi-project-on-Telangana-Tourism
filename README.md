@@ -20,7 +20,7 @@
 After all the analysis, the data is reliable enough to build the dashboard.
 
 
-**Dashboard**
+***Dashboard***
 
 ![IMG_20230820_185242](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ed82f227-c663-482d-adcb-85a209441ecc)
 

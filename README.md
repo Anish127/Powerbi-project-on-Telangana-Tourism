@@ -7,16 +7,16 @@
 
 
 **Extract Transform Load(ETL)**: Imported necessary CSV files
-**Data Modeling: There are in total of 3 tables, and it should be made sure that the tables are connected correctly.
-![Screenshot (87)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ada60c9a-5567-45e7-b3f1-0a550b565304)
+**Data Modeling: There are in total of 3 tables, and it should be made sure that the tables are connected correctly.Screenshot (87)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ada60c9a-5567-45e7-b3f1-0a550b565304)
 
 Data Cleaning: In this step, I removed null values, removed duplicates.
-[Screenshot (89)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/db6be460-b44a-4e6f-8db8-7cc50f6cfe70)
+![Screenshot (88)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/f5476ff7-ff10-4a4d-9a71-b04ff618fce4)
 
-After all the analysis , the data is reliable enough to build the dashboard
+After all the analysis, the data is reliable enough to build the dashboard
 
 **Dashboard**
-![Screenshot (90)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ca312b1f-2fe8-4617-b0cf-92199559a0c2)
+![IMG_20230820_185242](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ed82f227-c663-482d-adcb-85a209441ecc)
+
 
 
 

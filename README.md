@@ -13,16 +13,32 @@
 
 
 
-
 **Data Cleaning**: In this step, I removed null values, removed duplicates.
 
 ![Screenshot (88)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/f5476ff7-ff10-4a4d-9a71-b04ff618fce4)
 
 After all the analysis, the data is reliable enough to build the dashboard
 
+
 **Dashboard**
 
 ![IMG_20230820_185242](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ed82f227-c663-482d-adcb-85a209441ecc)
+
+**Results**: 1. Number of Domestic visitors is expected to decrease by 12% in 2026
+             2. Number of Foreign visitors is expected to increase by 136%  in 2026
+ 
+ 
+  **RECOMMENDATIONS FOR TELANGANA GOVT. TO BOOST THE TOURISM**
+ 
+  1. Developing new tourist attractions
+  2. Promoting local culture and heritage
+  3. Improving infrastructure
+  4. Conducting cultural events and corporate seminars
+  5. Increasing marketing efforts
+
+
+
+
 
 
 

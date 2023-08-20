@@ -1,6 +1,6 @@
 # **Telangana_dashboard**
 
-**Introduction**: Datasets provides the information about domestic and Foreign visitors of Telangana districts  from 2016-2019. 
+**Introduction**: Datasets provides the information about Domestic and Foreign visitors of Telangana districts from 2016-2019. 
 
 **Objective**: Providing insights to the Telangana Government to boost tourism.
 

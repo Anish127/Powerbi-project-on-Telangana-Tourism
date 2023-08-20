@@ -8,7 +8,8 @@
 
 **Extract Transform Load(ETL)**: Imported necessary CSV files
 **Data Modeling: There are in total of 3 tables, and it should be made sure that the tables are connected correctly.
-![Screenshot (88)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/01e1ab9c-13ef-480b-8ec8-a2fb22e213f6)
+![Screenshot (87)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/c48b854d-837f-4382-ad4f-f710b3aaba86)
+
 
 
 Data Cleaning: In this step, I removed null values, removed duplicates.

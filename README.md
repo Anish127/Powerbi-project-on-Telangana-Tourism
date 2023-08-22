@@ -7,6 +7,7 @@
 **Data Preparation**: Imported necessary CSV files.  1. Domestic Visitors from 2016 to 2019  
                                                      2. Foreign Visitors from 2016 to 2019.
 I combined a total of eight CSV files into a single  CSV file.
+
 The final data looks like this.
 
 ![Screenshot (97)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/90e499fd-c888-4c7b-af55-a9a66a713164)

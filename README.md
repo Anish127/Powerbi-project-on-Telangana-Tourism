@@ -17,12 +17,17 @@
 ![Screenshot (89)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/8ef5226f-e69b-4048-be24-12ada5a91817)
 
 
+
+
 After all the analysis, the data is reliable enough to build the dashboard.
 
 
 ***Dashboard***
 
 ![Telangana_Dashboard](https://github.com/Anish127/Telangana_dashboard/assets/77845356/90d0877f-8547-4a9e-9dea-94b5aa62c79d)
+
+
+![Telangana_Dashboard (1)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/7af9b139-574d-433c-bccf-c19a02407784)
 
 
 

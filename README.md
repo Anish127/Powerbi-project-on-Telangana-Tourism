@@ -11,7 +11,8 @@ I combined a total of eight CSV files into a single  CSV file.
 
 The final data looks like this.
 
-![Screenshot (97)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/90e499fd-c888-4c7b-af55-a9a66a713164)
+![Screenshot (96)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/dfb2c3ee-2a59-4805-af18-c1e79199d9f9)
+
 
                                                                  
 **Data Cleaning**: In this step, I removed null values and removed duplicates.

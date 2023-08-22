@@ -30,7 +30,7 @@ After all the analysis, the data is reliable enough to build the dashboard.
 
 **Results**: 
 
- 1  The Compound Annual Growth Rate of Domestic visitors experienced a 4% decrease from 2016 to 2019
+1. The Compound Annual Growth Rate of Domestic visitors experienced a 4% decrease from 2016 to 2019
 
 2. The Compound Annual Growth Rate of Foreign visitors experienced a 24% rise between 2016 and 2019
 

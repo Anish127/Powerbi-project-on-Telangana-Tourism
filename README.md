@@ -22,7 +22,10 @@ After all the analysis, the data is reliable enough to build the dashboard.
 
 ***Dashboard***
 
-![IMG_20230820_185242](https://github.com/Anish127/Telangana_dashboard/assets/77845356/ed82f227-c663-482d-adcb-85a209441ecc)
+![Telangana_Dashboard](https://github.com/Anish127/Telangana_dashboard/assets/77845356/90d0877f-8547-4a9e-9dea-94b5aa62c79d)
+
+
+
 
 **Results**: 
 1. Number of Domestic visitors is expected to decrease by 12% in 2026

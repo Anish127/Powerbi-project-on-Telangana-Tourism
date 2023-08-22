@@ -32,7 +32,7 @@ After all the analysis, the data is reliable enough to build the dashboard.
 ![Telangana_Dashboard_fin (1)](https://github.com/Anish127/Telangana_dashboard/assets/77845356/1c576657-a2b4-4bf9-a6ec-815a1ec5b051)
 
 
-**Results**: 
+**Insights**: 
 
 1. The Compound Annual Growth Rate of Domestic visitors experienced a 4% decrease from 2016 to 2019
 

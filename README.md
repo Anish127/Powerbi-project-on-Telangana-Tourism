@@ -22,12 +22,14 @@
 After all the analysis, the data is reliable enough to build the dashboard.
 
 
+
 ***Dashboard***
 
-![IMG_20230822_112520](https://github.com/Anish127/Telangana_dashboard/assets/77845356/063002b8-e907-4452-9075-18b8f53001e3)
+![IMG_20230822_112520](https://github.com/Anish127/Telangana_dashboard/assets/77845356/32ace219-8543-46ed-9253-d1cb8faab117)
+
+![IMG_20230822_110544](https://github.com/Anish127/Telangana_dashboard/assets/77845356/cb9a8e52-7046-46ca-965f-7132453c1c98)
 
 
-![IMG_20230822_110544](https://github.com/Anish127/Telangana_dashboard/assets/77845356/1e5974cb-5408-4d4a-8da8-5293550e037c)
 
 
 **Results**: 
